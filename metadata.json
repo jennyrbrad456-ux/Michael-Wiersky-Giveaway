@@ -1,0 +1,8 @@
+{
+  "name": "Michael Wiersky Giveaway Program",
+  "description": "Official Michael Wiersky Prefer Claim Giveaway program offering verified multipliers from $5,000.00 up to $420,000.00 guaranteed disbursements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
